@@ -1,10 +1,17 @@
 ### Hi everyone , I am Agustin Trossero 👋
 <img src="https://user-images.githubusercontent.com/97963783/179615883-4fa19550-c43a-4e05-963d-6874101c882c.jpeg" alt="drawing" width="200"/>
 
+<img src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="drawing" width="200" >
+
 ## Full Stack Web Developer from Argentina 
 
+<ul>
+   <li>🔭 study : Soy-Henry</li>
+   <li>😄 I am full stack web developer</li>
+</ul>
+
 ```javascript
-const aboutMe = {
+const aboutMe/skills⚡  = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS],
    technologies: {
@@ -21,6 +28,17 @@ const aboutMe = {
 };
 ```
 
+## Personal Proyects:
+[Concerteck](https://concer-teck-front-end.vercel.app/)
+
+[Pi-Videogames-Henry](https://github.com/TrosseroAgustin01/FT-MASTER-PI-VideoGames)
+
+
+## Contact:
+<ul>
+   <li>🌱Mail : trosseroagustin01@gmail.com </li>
+   <li>🌱LinkedIn : www.linkedin.com/in/agustin-trossero</li>
+</ul>
 
 <!--
 **TrosseroAgustin01/TrosseroAgustin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
