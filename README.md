@@ -6,23 +6,23 @@
 ## Full Stack Web Developer from Argentina 
 
 <ul>
-   <li>🔭 study : Soy-Henry</li>
+   <li>🔭 study : Soy-Henry, Universidad Siglo 21</li>
    <li>😄 I am full stack web developer</li>
 </ul>
 
 ```javascript
 const aboutMe/skills⚡  = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, PHP, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "React-Redux"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["NodeJs", "Express"],
+         js: ["NodeJs", "Express";Symfony,leaf],
       },
-      databases: ["Postgresql"],
+      databases: ["Postgresql,Mysql"],
    },
    challenge: "I am looking for the opportunity to improve my skills to the next level.",
 };
