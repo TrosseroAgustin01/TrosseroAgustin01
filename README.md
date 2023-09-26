@@ -3,7 +3,7 @@
 
 <img src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="drawing" width="200" >
 
-## Full Stack Web Developer from Argentina 
+## Full Stack Web Developer & Systems Student from Argentina 
 
 <ul>
    <li>🔭 study : Soy-Henry, Universidad Siglo 21</li>
